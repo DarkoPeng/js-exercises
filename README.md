@@ -5,7 +5,6 @@ These are some basic (and advanced) coding challenges
 Here's the basic workflow:
 
 ```bash
-[~]         $ git clone https://github.com/kolodny/exercises
 [~]         $ cd exercises
 [exercises] $ npm install
 [exercises] $ cd debounce
@@ -25,3 +24,25 @@ Pull requests welcome, please follow the basic workflow:
 
 [gitter-image]: https://badges.gitter.im/Join%20Chat.svg
 [gitter-url]: https://gitter.im/kolodny/exercises
+
+### Todo
+
+* [ ] async
+* [x] binary-search
+* [x] curry
+* [x] debounce
+* [x] flattern
+* [ ] flattern-thunk
+* [x] invert-tree
+* [ ] jasmine-async
+* [x] map
+* [ ] memoize
+* [ ] merkle
+* [ ] middleware
+* [ ] morse-code
+* [x] once
+* [ ] sort
+* [x] throttle
+* [ ] throttle-promises
+* [ ] update
+* [x] value
