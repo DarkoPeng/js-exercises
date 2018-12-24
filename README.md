@@ -36,13 +36,13 @@ Pull requests welcome, please follow the basic workflow:
 * [x] invert-tree
 * [ ] jasmine-async
 * [x] map
-* [ ] memoize
+* [x] memoize
 * [ ] merkle
 * [ ] middleware
 * [ ] morse-code
 * [x] once
-* [ ] sort
+* [x] sort
 * [x] throttle
 * [ ] throttle-promises
-* [ ] update
+* [x] update
 * [x] value
